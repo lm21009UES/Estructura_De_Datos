@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/ESD/Snake/Snake/Content/fondoLevel3.jpg","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/fondoLevel3.xnb","TextureProcessor","Texture2DContent",163462,2272525,4.7892084
+"F:/ESD/Snake/Snake/Content/gameOver.jpg","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/gameOver.xnb","TextureProcessor","Texture2DContent",56058,6983685,6.0060105
+"F:/ESD/Snake/Snake/Content/manzana.png","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/manzana.xnb","TextureProcessor","Texture2DContent",106126,2347149,3.6348064
+"F:/ESD/Snake/Snake/Content/minerva2.png","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/minerva2.xnb","TextureProcessor","Texture2DContent",122630,923293,4.123106
+"F:/ESD/Snake/Snake/Content/Snake.jpg","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/Snake.xnb","TextureProcessor","Texture2DContent",5554,263253,2.4658043
+"F:/ESD/Snake/Snake/Content/Snake1.jpg","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/Snake1.xnb","TextureProcessor","Texture2DContent",70434,603813,1.7180032
+"F:/ESD/Snake/Snake/Content/Writ.spritefont","F:/ESD/Snake/Snake/Content/bin/DesktopGL/Content/Writ.xnb","FontDescriptionProcessor","SpriteFontContent",2070,37919,2.6364045

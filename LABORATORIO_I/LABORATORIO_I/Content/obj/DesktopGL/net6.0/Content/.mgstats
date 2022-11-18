@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/Aharoni.spritefont","D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/Aharoni.xnb","FontDescriptionProcessor","SpriteFontContent",2069,37919,0.8075172
+"D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/balon.png","D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/balon.xnb","TextureProcessor","Texture2DContent",2196,4181,0.1890655
+"D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/campo1.png","D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/campo1.xnb","TextureProcessor","Texture2DContent",971674,1527085,1.2666906
+"D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/estadio.mp3","D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/estadio.xnb","SongProcessor","SongContent",736581,125,3.1124394
+"D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/pared.png","D:/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/pared.xnb","TextureProcessor","Texture2DContent",145,360085,0.1869657

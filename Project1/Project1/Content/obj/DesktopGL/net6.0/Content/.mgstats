@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/mapa1.png","C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/bin/DesktopGL/Content/mapa1.xnb","TextureProcessor","Texture2DContent",3316,225269,0.4188569
+"C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/mapa2.png","C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/bin/DesktopGL/Content/mapa2.xnb","TextureProcessor","Texture2DContent",2692,225349,0.0436929
+"C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/pacman1.png","C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/bin/DesktopGL/Content/pacman1.xnb","TextureProcessor","Texture2DContent",350,4709,0.3435133
+"C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/pacman2.png","C:/Users/ERICK/Documents/ESD/Project1/Project1/Content/bin/DesktopGL/Content/pacman2.xnb","TextureProcessor","Texture2DContent",306,4985,0.4070748

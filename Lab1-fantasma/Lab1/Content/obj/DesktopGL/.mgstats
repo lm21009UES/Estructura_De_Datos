@@ -1,0 +1,18 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/ESD/Lab1-fantasma/Lab1/Content/door.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/door.xnb","TextureProcessor","Texture2DContent",160,485,3.795117
+"D:/ESD/Lab1-fantasma/Lab1/Content/eye.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/eye.xnb","TextureProcessor","Texture2DContent",415,485,0.8033036
+"D:/ESD/Lab1-fantasma/Lab1/Content/gameover.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/gameover.xnb","TextureProcessor","Texture2DContent",3344,114325,1.576273
+"D:/ESD/Lab1-fantasma/Lab1/Content/ghost.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/ghost.xnb","TextureProcessor","Texture2DContent",282,4181,0.0890805
+"D:/ESD/Lab1-fantasma/Lab1/Content/mouth.PNG","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/mouth.xnb","TextureProcessor","Texture2DContent",152,173,0.0896116
+"D:/ESD/Lab1-fantasma/Lab1/Content/nivel01.PNG","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/nivel01.xnb","TextureProcessor","Texture2DContent",470793,3141717,2.7195785
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacman01.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacman01.xnb","TextureProcessor","Texture2DContent",23585,4181,0.0998905
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacman02.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacman02.xnb","TextureProcessor","Texture2DContent",23153,4181,0.1307128
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacman2.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacman2.xnb","TextureProcessor","Texture2DContent",5064,4181,0.0743594
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacmanDown.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacmanDown.xnb","TextureProcessor","Texture2DContent",437,4181,0.0643999
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacmanLeft.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacmanLeft.xnb","TextureProcessor","Texture2DContent",447,4181,0.063931
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacmanRight.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacmanRight.xnb","TextureProcessor","Texture2DContent",446,4181,0.0633866
+"D:/ESD/Lab1-fantasma/Lab1/Content/pacmanUp.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pacmanUp.xnb","TextureProcessor","Texture2DContent",435,4181,0.0634323
+"D:/ESD/Lab1-fantasma/Lab1/Content/point.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/point.xnb","TextureProcessor","Texture2DContent",134,485,0.0579885
+"D:/ESD/Lab1-fantasma/Lab1/Content/pupil.png","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/pupil.xnb","TextureProcessor","Texture2DContent",134,485,0.0581561
+"D:/ESD/Lab1-fantasma/Lab1/Content/rect.JPG","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/rect.xnb","TextureProcessor","Texture2DContent",912,3685,0.0581653
+"D:/ESD/Lab1-fantasma/Lab1/Content/texto.spritefont","D:/ESD/Lab1-fantasma/Lab1/Content/bin/DesktopGL/texto.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1787536
