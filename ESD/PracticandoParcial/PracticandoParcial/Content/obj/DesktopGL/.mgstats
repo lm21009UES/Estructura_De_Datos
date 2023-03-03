@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Documents/ESD/PracticandoParcial/PracticandoParcial/Content/Among.jpg","C:/Users/ERICK/Documents/ESD/PracticandoParcial/PracticandoParcial/Content/bin/DesktopGL/Among.xnb","TextureProcessor","Texture2DContent",19537,1440085,0.6269804
+"C:/Users/ERICK/Documents/ESD/PracticandoParcial/PracticandoParcial/Content/File.spritefont","C:/Users/ERICK/Documents/ESD/PracticandoParcial/PracticandoParcial/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.7771216
+"C:/Users/ERICK/Documents/ESD/PracticandoParcial/PracticandoParcial/Content/fondo.jpg","C:/Users/ERICK/Documents/ESD/PracticandoParcial/PracticandoParcial/Content/bin/DesktopGL/fondo.xnb","TextureProcessor","Texture2DContent",172482,14745685,2.874762

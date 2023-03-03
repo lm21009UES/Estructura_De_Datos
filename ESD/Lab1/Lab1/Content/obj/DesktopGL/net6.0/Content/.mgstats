@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/nivel01.PNG","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/nivel01.xnb","TextureProcessor","Texture2DContent",470793,3141717,0.8429567
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacman01.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacman01.xnb","TextureProcessor","Texture2DContent",23585,4181,0.0076498
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacman02.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacman02.xnb","TextureProcessor","Texture2DContent",23153,4181,0.009385
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacman2.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacman2.xnb","TextureProcessor","Texture2DContent",5064,4181,0.0099321
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacmanDown.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacmanDown.xnb","TextureProcessor","Texture2DContent",437,4181,0.005962
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacmanLeft.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacmanLeft.xnb","TextureProcessor","Texture2DContent",447,4181,0.0060145
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacmanRight.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacmanRight.xnb","TextureProcessor","Texture2DContent",446,4181,0.0048998
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/pacmanUp.png","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/pacmanUp.xnb","TextureProcessor","Texture2DContent",435,4181,0.0061465
+"C:/Users/ERICK/Downloads/Lab1/Lab1/Content/rect.JPG","C:/Users/ERICK/Downloads/Lab1/Lab1/Content/bin/DesktopGL/Content/rect.xnb","TextureProcessor","Texture2DContent",912,3685,0.0081463

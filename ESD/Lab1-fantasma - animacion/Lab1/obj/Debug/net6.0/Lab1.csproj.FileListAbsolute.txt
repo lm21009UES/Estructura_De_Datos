@@ -1,0 +1,165 @@
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\50375\source\repos\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\50375\source\repos\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\50375\Downloads\Lab1-tunnel\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-puntos\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\50375\OneDrive\Desktop\Lab1\Lab1-fantasma\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacman01.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacman02.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\door.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\eye.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\ghost.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\nivel01.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacman2.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacmanDown.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacmanLeft.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacmanRight.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pacmanUp.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\point.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\pupil.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\rect.xnb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\ESTRUCTURA DE DATOS\Lab1-fantasma - animacion\Lab1\bin\Debug\net6.0\Content\Texto.xnb

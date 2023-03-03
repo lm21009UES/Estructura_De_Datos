@@ -1,0 +1,11 @@
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\bin\Debug\ClaseProyecto.exe.config
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\bin\Debug\ClaseProyecto.exe
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\bin\Debug\ClaseProyecto.pdb
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.Form1.resources
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.Properties.Resources.resources
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.csproj.GenerateResource.cache
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.exe
+C:\Users\ERICK\Documents\ESD\ClaseProyecto\ClaseProyecto\obj\Debug\ClaseProyecto.pdb

@@ -1,0 +1,34 @@
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.exe
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.deps.json
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.runtimeconfig.json
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.dll
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.pdb
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.csproj.AssemblyReference.cache
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.Form1.resources
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.csproj.GenerateResource.cache
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.AssemblyInfoInputs.cache
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.AssemblyInfo.cs
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.dll
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\refint\NuevoProyecto.dll
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.pdb
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.genruntimeconfig.cache
+C:\Users\50375\source\repos\NuevoProyecto\NuevoProyecto\obj\Debug\net6.0-windows\ref\NuevoProyecto.dll
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.Form1.resources
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.csproj.GenerateResource.cache
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.AssemblyInfo.cs
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.dll
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\refint\NuevoProyecto.dll
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.pdb
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.exe
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.deps.json
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.runtimeconfig.json
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.dll
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\bin\Debug\net6.0-windows\NuevoProyecto.pdb
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\NuevoProyecto.genruntimeconfig.cache
+C:\Users\ERICK\Documents\ESD\EJEMPLO COMPLETO ARBOLES\NuevoProyecto\obj\Debug\net6.0-windows\ref\NuevoProyecto.dll

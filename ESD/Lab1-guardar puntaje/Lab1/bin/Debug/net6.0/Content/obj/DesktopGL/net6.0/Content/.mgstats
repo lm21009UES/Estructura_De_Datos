@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Downloads/Lab1-guardar puntaje/Lab1/bin/Debug/net6.0/Content/pacman01.png","C:/Users/ERICK/Downloads/Lab1-guardar puntaje/Lab1/bin/Debug/net6.0/Content/bin/DesktopGL/Content/pacman01.xnb","TextureProcessor","Texture2DContent",23585,4181,0.4334399
+"C:/Users/ERICK/Downloads/Lab1-guardar puntaje/Lab1/bin/Debug/net6.0/Content/pacman02.png","C:/Users/ERICK/Downloads/Lab1-guardar puntaje/Lab1/bin/Debug/net6.0/Content/bin/DesktopGL/Content/pacman02.xnb","TextureProcessor","Texture2DContent",23153,4181,0.0109078

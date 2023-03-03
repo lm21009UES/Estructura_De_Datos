@@ -1,0 +1,11 @@
+C:\Users\ERICK\Documents\ESD\AVL\AVL\bin\Debug\AVL.exe.config
+C:\Users\ERICK\Documents\ESD\AVL\AVL\bin\Debug\AVL.exe
+C:\Users\ERICK\Documents\ESD\AVL\AVL\bin\Debug\AVL.pdb
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.Form1.resources
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.Properties.Resources.resources
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.csproj.GenerateResource.cache
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.exe
+C:\Users\ERICK\Documents\ESD\AVL\AVL\obj\Debug\AVL.pdb

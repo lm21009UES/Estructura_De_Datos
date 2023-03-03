@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\bin\Debug\net6.0\Practicando.exe
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\bin\Debug\net6.0\Practicando.deps.json
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\bin\Debug\net6.0\Practicando.runtimeconfig.json
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\bin\Debug\net6.0\Practicando.dll
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\bin\Debug\net6.0\Practicando.pdb
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.AssemblyInfo.cs
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.dll
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\refint\Practicando.dll
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.pdb
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\Practicando.genruntimeconfig.cache
+C:\Users\ERICK\Documents\ESD\Practicando\Practicando\obj\Debug\net6.0\ref\Practicando.dll

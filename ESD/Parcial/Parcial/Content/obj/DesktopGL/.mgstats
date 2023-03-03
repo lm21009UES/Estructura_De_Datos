@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/gameOver.jpg","C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/bin/DesktopGL/gameOver.xnb","TextureProcessor","Texture2DContent",56058,6983685,1.2940207
+"C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/madera.jpg","C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/bin/DesktopGL/madera.xnb","TextureProcessor","Texture2DContent",5823,201385,0.7954621
+"C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/ranas.jpg","C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/bin/DesktopGL/ranas.xnb","TextureProcessor","Texture2DContent",47891,1128085,0.4937548
+"C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/rocas.jpg","C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/bin/DesktopGL/rocas.xnb","TextureProcessor","Texture2DContent",172770,2560085,0.4988629
+"C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/Texto.spritefont","C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/bin/DesktopGL/Texto.xnb","FontDescriptionProcessor","SpriteFontContent",2069,21535,0.8588496
+"C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/winner.jpg","C:/Users/ERICK/Documents/ESD/Parcial/Parcial/Content/bin/DesktopGL/winner.xnb","TextureProcessor","Texture2DContent",8778,202085,0.0619087

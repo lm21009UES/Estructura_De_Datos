@@ -1,0 +1,11 @@
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.Form1.resources
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.Properties.Resources.resources
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.csproj.GenerateResource.cache
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\bin\Debug\UltimoComputo.exe.config
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\bin\Debug\UltimoComputo.exe
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\bin\Debug\UltimoComputo.pdb
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.exe
+C:\Users\ERICK\Documents\ESD\UltimoComputo\UltimoComputo\obj\Debug\UltimoComputo.pdb

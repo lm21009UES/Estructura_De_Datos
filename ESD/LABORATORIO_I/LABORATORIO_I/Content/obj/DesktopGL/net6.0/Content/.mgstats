@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/Aharoni.spritefont","C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/Aharoni.xnb","FontDescriptionProcessor","SpriteFontContent",2069,37919,0.7934181
+"C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/balon.png","C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/balon.xnb","TextureProcessor","Texture2DContent",2196,4181,0.3578111
+"C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/campo1.png","C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/campo1.xnb","TextureProcessor","Texture2DContent",971674,1527085,0.6617265
+"C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/estadio.mp3","C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/estadio.xnb","SongProcessor","SongContent",736581,125,10.985752
+"C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/pared.png","C:/Users/ERICK/Documents/ESD/LABORATORIO_I/LABORATORIO_I/Content/bin/DesktopGL/Content/pared.xnb","TextureProcessor","Texture2DContent",145,360085,0.5880343

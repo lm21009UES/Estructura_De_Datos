@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/50375/source/repos/Lab1/Lab1/Content/pacman01.png","C:/Users/50375/source/repos/Lab1/Lab1/Content/bin/DesktopGL/pacman01.xnb","TextureProcessor","Texture2DContent",23585,4181,0.1364381
+"C:/Users/50375/source/repos/Lab1/Lab1/Content/pacman02.png","C:/Users/50375/source/repos/Lab1/Lab1/Content/bin/DesktopGL/pacman02.xnb","TextureProcessor","Texture2DContent",23153,4181,0.0022144

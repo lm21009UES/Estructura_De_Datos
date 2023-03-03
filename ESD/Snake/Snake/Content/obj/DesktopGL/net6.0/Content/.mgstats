@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/fondoLevel3.jpg","C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/bin/DesktopGL/Content/fondoLevel3.xnb","TextureProcessor","Texture2DContent",163462,2272525,0.4091587
+"C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/gameOver.jpg","C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/bin/DesktopGL/Content/gameOver.xnb","TextureProcessor","Texture2DContent",56058,6983685,0.6485794
+"C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/manzana.png","C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/bin/DesktopGL/Content/manzana.xnb","TextureProcessor","Texture2DContent",106126,2347149,0.8465667
+"C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/Snake.jpg","C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/bin/DesktopGL/Content/Snake.xnb","TextureProcessor","Texture2DContent",5554,263253,0.4277186
+"C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/Snake1.jpg","C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/bin/DesktopGL/Content/Snake1.xnb","TextureProcessor","Texture2DContent",70434,603813,0.5696207
+"C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/Writ.spritefont","C:/Users/ERICK/Documents/ESD/Snake/Snake/Content/bin/DesktopGL/Content/Writ.xnb","FontDescriptionProcessor","SpriteFontContent",2070,37919,0.5552566
